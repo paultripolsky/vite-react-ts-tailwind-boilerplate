@@ -3,7 +3,7 @@ import React, { FC } from 'react'
 const AboutPage: FC = () => {
   return (
     <div>
-      <h1>Welcome to about page</h1>
+      <h1 className="text-3xl font-bold underline">Welcome to about page</h1>
     </div>
   )
 }
